@@ -5,7 +5,7 @@ const Logo = ({ infoPage }: { infoPage?: boolean }) => {
   return (
     <div className={`md:pt-24 ${infoPage ? "pt-24" : "pt-24"}`}>
       <Link href="/">
-        <Image src="/logo.svg" alt="logo" width={200} height={100} />
+        <Image src="/Logo.svg" alt="logo" width={200} height={100} />
       </Link>
     </div>
   );
