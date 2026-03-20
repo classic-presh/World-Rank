@@ -1,36 +1,105 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# World-Rank 🌍
 
-## Getting Started
+This repository, **World-Rank**, is a Next.js project designed to display and interact with country-related data. It leverages modern web development practices and a component library for a polished user interface.
 
-First, run the development server:
+## 🚀 Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+*   **Comprehensive Country Data:** Access and view a wide range of information about countries worldwide.
+*   **Interactive Rankings:** Explore and compare countries based on various ranking metrics.
+*   **Responsive Design:** Optimized for seamless viewing across different devices.
+*   **Modern UI Components:** Built with a curated set of UI components for an intuitive user experience.
+*   **Fast Development:** Bootstrapped with `create-next-app` for efficient development.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Installation
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+To get started with World-Rank, follow these steps:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/classic-presh/World-Rank.git
+    ```
 
-## Learn More
+2.  **Navigate to the project directory:**
+    ```bash
+    cd World-Rank
+    ```
 
-To learn more about Next.js, take a look at the following resources:
+3.  **Install dependencies:**
+    Choose your preferred package manager:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+    **npm:**
+    ```bash
+    npm install
+    ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+    **yarn:**
+    ```bash
+    yarn install
+    ```
 
-## Deploy on Vercel
+    **pnpm:**
+    ```bash
+    pnpm install
+    ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+    **bun:**
+    ```bash
+    bun install
+    ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## ▶️ Usage
+
+To run the development server and view the application:
+
+1.  **Start the development server:**
+
+    **npm:**
+    ```bash
+    npm run dev
+    ```
+
+    **yarn:**
+    ```bash
+    yarn dev
+    ```
+
+    **pnpm:**
+    ```bash
+    pnpm dev
+    ```
+
+    **bun:**
+    ```bash
+    bun dev
+    ```
+
+2.  Open your web browser and navigate to:
+    [http://localhost:3000](http://localhost:3000)
+
+## 🤝 Contributing
+
+We welcome contributions to World-Rank! If you'd like to contribute, please follow these guidelines:
+
+1.  Fork the repository.
+2.  Create a new branch for your feature or bug fix (`git checkout -b feature/your-feature-name` or `git checkout -b fix/your-bug-fix`).
+3.  Make your changes and commit them (`git commit -m 'Add some feature'`).
+4.  Push to the branch (`git push origin feature/your-feature-name`).
+5.  Open a Pull Request.
+
+Please ensure your code adheres to the project's coding standards and includes appropriate tests.
+
+## 📜 License
+
+This project is not currently under any specified license.
+
+---
+
+*This README was generated for the World-Rank repository.*
+
+---
+
+<p align="center">
+  <a href="https://readmeforge.app?utm_source=badge">
+    <img src="https://readmeforge.app/badge.svg" alt="Made with ReadmeForge" height="20">
+  </a>
+</p>
